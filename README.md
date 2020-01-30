@@ -1,4 +1,5 @@
 Tool for launchpad mini for any program controlling.
+[Created with VS2019 | .NET C# standart console project]
 
 To use:
 - Run with administrator rights (!It`s just not working without them!)
