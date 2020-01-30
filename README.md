@@ -8,8 +8,8 @@ After that, buttons A B C D E G H will be light up. You can use first five for c
 H resets all pads and delete savings. G disable coloring. F enable coloring.
 Your settings will be automatically saved.
 
-Then, setup launchpad in your DAW in keybindings
+Then, set up launchpad in your DAW in keybindings
 
-!All SAVES ARE IN C:\Users\[username]\AppData\Roaming\LaunchpadTool
+! All SAVES ARE IN C:\Users\[username]\AppData\Roaming\LaunchpadTool !
 
 I will create a video soon about program
