@@ -12,4 +12,4 @@ Then, set up launchpad in your DAW in keybindings
 
 ! All SAVES ARE IN C:\Users\[username]\AppData\Roaming\LaunchpadTool !
 
-I will create a video soon about program
+I will create a video soon about program. Also, I should add comments in code...
