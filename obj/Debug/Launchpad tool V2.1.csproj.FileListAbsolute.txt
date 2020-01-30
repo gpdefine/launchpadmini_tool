@@ -1,0 +1,8 @@
+S:\DamnitFlame\Launchpad tool V2.1\bin\Debug\Launchpad tool V2.1.exe.config
+S:\DamnitFlame\Launchpad tool V2.1\bin\Debug\Launchpad tool V2.1.exe
+S:\DamnitFlame\Launchpad tool V2.1\bin\Debug\Launchpad tool V2.1.pdb
+S:\DamnitFlame\Launchpad tool V2.1\bin\Debug\Midi.dll
+S:\DamnitFlame\Launchpad tool V2.1\obj\Debug\Launchpad tool V2.1.csproj.CopyComplete
+S:\DamnitFlame\Launchpad tool V2.1\obj\Debug\Launchpad tool V2.1.exe
+S:\DamnitFlame\Launchpad tool V2.1\obj\Debug\Launchpad tool V2.1.pdb
+S:\DamnitFlame\Launchpad tool V2.1\obj\Debug\Launchpad tool V2.1.csprojAssemblyReference.cache
